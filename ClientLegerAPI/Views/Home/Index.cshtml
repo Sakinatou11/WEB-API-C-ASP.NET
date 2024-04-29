@@ -1,0 +1,203 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Mettez vos balises meta, title, stylesheets, etc. ici -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build/Code for everyone</title>
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        /* Styles spécifiques à cette page */
+        body {
+            background-image: url("/images/FFF8055B-89B9-4235-B10D-4189ADE031F3.jpeg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: white;
+        }
+
+        header {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+
+        .navbar-brand {
+            padding: 0;
+        }
+
+            .navbar-brand img {
+                width: 100px; /* Ajuster la taille de l'image selon votre besoin */
+            }
+
+        .nav-item {
+            margin-right: 10px;
+        }
+
+        .jumbotron {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 80px 20px;
+            text-align: center;
+        }
+
+        .btn-primary,
+        .btn-secondary {
+            margin-top: 20px;
+        }
+
+        .card {
+            margin-top: 20px;
+            border: none;
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+
+        .card-img-top {
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .card-title, .card-text {
+            color: white;
+        }
+
+        /* Couleurs Google */
+        .nav-link.text-google-blue {
+            color: #4285F4; /* Bleu Google */
+        }
+
+        .nav-link.text-google-yellow {
+            color: #FBBC05; /* Jaune Google */
+        }
+
+        .nav-link.text-google-green {
+            color: #34A853; /* Vert Google */
+        }
+
+        .nav-link.text-google-red {
+            color: #EA4335; /* Rouge Google */
+        }
+
+        /* Style de défilement */
+        .scrolling-text {
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        /* Bouton "See Products You Bought" en rouge */
+        .btn-see-products {
+            background-color: #EA4335;
+            border-color: #EA4335;
+        }
+
+        /* Bouton "Give Your Opinion on Products You Used" en vert */
+        .btn-give-opinion {
+            background-color: #34A853;
+            border-color: #34A853;
+        }
+
+        /* Couleur pour "Create, Design, Code, Build" */
+        .btn-build {
+            color: #FBBC05;
+        }
+
+        /* Couleur pour "View Reviews" */
+        .btn-view-reviews {
+            color: #4285F4;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <!-- Barre de navigation -->
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <!-- Marque de la navbar -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <!-- Contenu de la navbar -->
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <!-- Lien amusant sur Google Cloud -->
+                        <li class="nav-item">
+                            <a class="nav-link text-google-yellow scrolling-text" href="#" id="scrollingText">The sky's the limit!</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            <!-- Contenu principal -->
+            <div class="jumbotron">
+                <h1 class="display-4">Create, Design, Code, Build for Everyone</h1>
+                <p class="lead">Discover our range of products and customer reviews.</p>
+                <hr class="my-4">
+                <p>You can explore our products and check out customer reviews to make the best choice.</p>
+                <a class="btn btn-primary btn-lg btn-see-products" href="/Products" role="button">See Products You Bought</a>
+                <a class="btn btn-secondary btn-lg btn-give-opinion" href="/Avis" role="button">Give Your Opinion on Products You Used</a>
+            </div>
+
+            <div class="row">
+                <!-- Card Produits -->
+                <div class="col-md-6">
+                    <div class="card">
+                        <img src="https://th.bing.com/th/id/OIP.T1jvFQpWtoVRzaR6y1GpEgHaDF?w=341&h=145&c=7&r=0&o=5&pid=1.7" class="card-img-top" alt="Produits">
+                        <div class="card-body">
+                            <h5 class="card-title">Discover our Products</h5>
+                            <p class="card-text">Explore our selection of high-quality products.</p>
+                            <a href="/Products" class="btn btn-primary btn-build">See our products</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card Avis -->
+                <div class="col-md-6">
+                    <div class="card">
+                        <img src="https://th.bing.com/th/id/OIP.q78qLJNodR5hIWFbBf6f1gHaEe?w=276&h=180&c=7&r=0&o=5&pid=1.7" class="card-img-top" alt="Avis">
+                        <div class="card-body">
+                            <h5 class="card-title">Customer Reviews</h5>
+                            <p class="card-text">Check out customer reviews on our products.</p>
+                            <a href="/Avis" class="btn btn-secondary btn-view-reviews">View reviews</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Pied de page -->
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - ClientLegerAPI - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        // Code JavaScript pour le défilement du texte
+        (function () {
+            var scrollingText = document.getElementById('scrollingText');
+            var textWidth = scrollingText.offsetWidth;
+            var containerWidth = scrollingText.parentNode.offsetWidth;
+
+            function scrollText() {
+                if (containerWidth < textWidth) {
+                    var currentPos = 0;
+                    setInterval(function () {
+                        currentPos -= 1;
+                        if (currentPos < -textWidth) {
+                            currentPos = containerWidth;
+                        }
+                        scrollingText.style.transform = 'translateX(' + currentPos + 'px)';
+                    }, 30);
+                }
+            }
+
+            scrollText();
+        })();
+    </script>
+</body>
+</html>

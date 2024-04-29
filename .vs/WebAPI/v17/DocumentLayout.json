@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\avis\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\avis\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/WebAPI.Data/True/SqlTable/dbo.Avis.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\avis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\avis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\controllers\\aviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\controllers\\aviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\avis\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\avis\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\avis\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\avis\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\webapi\\controllers\\aviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\aviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\webapi\\models\\avis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\avis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\clientlegerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\clientlegerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\avis\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\avis\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\clientlegerapi\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EC7D82-8CB0-4988-9906-2757DC3480D6}|ClientLegerAPI\\ClientLegerAPI.csproj|solutionrelative:clientlegerapi\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\webapi\\controllers\\products1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\products1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\webapi\\data\\webapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\webapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|c:\\users\\ramata\\source\\repos\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{613A1E65-E5FD-4806-82E4-020290EC9595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Avis\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Avis\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Avis\\Create.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Avis\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:42:49.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAIwMsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:39:05.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Avis [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/WebAPI.Data/True/SqlTable/dbo.Avis.sql",
+              "ToolTip": "dbo.Avis [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-21T16:02:28.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AvisController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Controllers\\AvisController.cs",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Controllers\\AvisController.cs",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Controllers\\AvisController.cs",
+              "RelativeToolTip": "ClientLegerAPI\\Controllers\\AvisController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAuwH4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:47:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:40:47.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T15:15:57.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Avis\\Details.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Avis\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Avis\\Details.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Avis\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T15:14:48.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:42:09.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Avis\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Avis\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Avis\\Index.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Avis\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:49:44.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T10:31:10.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Avis\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Avis\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Avis\\Edit.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Avis\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:44:54.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Avis.cs",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Models\\Avis.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Avis.cs",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Models\\Avis.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Avis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:09:39.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AvisController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Controllers\\AvisController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AvisController.cs",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Controllers\\AvisController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AvisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:10:49.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:08:35.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Startup.cs",
+              "RelativeToolTip": "ClientLegerAPI\\Startup.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvzwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:20:52.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T15:00:36.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\appsettings.json",
+              "RelativeToolTip": "ClientLegerAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T15:26:35.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Program.cs",
+              "RelativeToolTip": "ClientLegerAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:23:53.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T16:20:06.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientLegerAPI",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\ClientLegerAPI.csproj",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\ClientLegerAPI.csproj",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\ClientLegerAPI.csproj",
+              "RelativeToolTip": "ClientLegerAPI\\ClientLegerAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T16:20:36.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:11:16.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T15:16:20.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Avis\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Avis\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Avis\\Delete.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Avis\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:43:00.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClientLegerAPI\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\ClientLegerAPI\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "ClientLegerAPI\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:41:00.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Products1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Controllers\\Products1Controller.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\Products1Controller.cs",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Controllers\\Products1Controller.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\Products1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:42:03.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WebAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Data\\WebAPIContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\WebAPIContext.cs",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\Data\\WebAPIContext.cs",
+              "RelativeToolTip": "WebAPI\\Data\\WebAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:32:05.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\Ramata\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T10:08:07.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

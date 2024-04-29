@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Mettez vos balises meta, title, stylesheets, etc. ici -->
+    <style>
+        /* Ajout de styles pour les liens de la navbar */
+        .nav-link.text-google-blue {
+            color: #4285F4 !important; /* Bleu Google */
+        }
+
+        .nav-link.text-google-yellow {
+            color: #FBBC05 !important; /* Jaune Google */
+        }
+
+        .nav-link.text-google-green {
+            color: #34A853 !important; /* Vert Google */
+        }
+
+        .nav-link.text-google-red {
+            color: #EA4335 !important; /* Rouge Google */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <!-- Barre de navigation -->
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <!-- Marque de la navbar -->
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="https://th.bing.com/th/id/OIP.RYFGIs_b2WZrOcqCbvpQwQHaEK?w=328&h=184&c=7&r=0&o=5&pid=1.7" alt="Google Cloud" />
+                </a>
+                <!-- Bouton de basculement pour les petits écrans -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <!-- Contenu de la navbar -->
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <!-- Liens de la navbar -->
+                        <li class="nav-item">
+                            <a class="nav-link text-google-blue" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-google-yellow" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                        <!-- Lien vers l'Index des Produits -->
+                        <li class="nav-item">
+                            <a class="nav-link text-google-green" asp-area="" asp-controller="Products" asp-action="Index">Produit</a>
+                        </li>
+                        <!-- Lien vers l'Index des Avis -->
+                        <li class="nav-item">
+                            <a class="nav-link text-google-red" asp-area="" asp-controller="Avis" asp-action="Index">Avis</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Pied de page -->
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - ClientLegerAPI - <a asp-area="" asp-controller="Home" asp-action="Privacy" class="text-google-yellow">Privacy</a>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
